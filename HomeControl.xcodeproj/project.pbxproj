@@ -17,6 +17,7 @@
 		9DEF0AEF2597D2A60041BA81 /* ComplicationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF0AEE2597D2A60041BA81 /* ComplicationController.swift */; };
 		9DEF0AF12597D2A70041BA81 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DEF0AF02597D2A70041BA81 /* Assets.xcassets */; };
 		9DEF0AF42597D2A70041BA81 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DEF0AF32597D2A70041BA81 /* Preview Assets.xcassets */; };
+		9DEF0B082597DAFB0041BA81 /* ClientApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF0B072597DAFB0041BA81 /* ClientApi.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -76,6 +77,7 @@
 		9DEF0AF32597D2A70041BA81 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9DEF0AF52597D2A70041BA81 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9DEF0AF62597D2A70041BA81 /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		9DEF0B072597DAFB0041BA81 /* ClientApi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClientApi.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +131,7 @@
 				9DEF0AF52597D2A70041BA81 /* Info.plist */,
 				9DEF0AF62597D2A70041BA81 /* PushNotificationPayload.apns */,
 				9DEF0AF22597D2A70041BA81 /* Preview Content */,
+				9DEF0B072597DAFB0041BA81 /* ClientApi.swift */,
 			);
 			path = "HomeControl WatchKit Extension";
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 				9DEF0AEF2597D2A60041BA81 /* ComplicationController.swift in Sources */,
 				9DEF0AE72597D2A60041BA81 /* HomeControlApp.swift in Sources */,
 				9DEF0AED2597D2A60041BA81 /* NotificationView.swift in Sources */,
+				9DEF0B082597DAFB0041BA81 /* ClientApi.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
